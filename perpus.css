@@ -12,28 +12,28 @@
 body {
     width: 100%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: rgb(67, 151, 151);
+    background-color: wheat;
 }
 
 header {
     margin: 0px 10px 0px 10px;
     border-radius: 10px 10px 0px 0px ;
     padding: 30px 30px 30px 30px;
-    background-color: rgb(155, 72, 72);
+    background-color: wheat;
 }
 
 h2 {
     text-align : center;
-    color: white;
+    color: black;
 }
 
 h5 {
     text-align: center;
-    color: white;
+    color: black;
 }
 
 .hai {
-    background-color: black;
+    background-color: wheat;
     padding: 15px 30px 15px 30px;
     color: white;
     margin: 0px 10px 0px 10px;
@@ -44,7 +44,7 @@ h5 {
     float: left;
     width: 20%;
     height: 490px; 
-    background: rgb(155, 72, 72);
+    background: wheat;
     margin: 0px 10px 0px 10px;
     border-radius: 0px 0px 0px 10px;
 }
@@ -52,10 +52,10 @@ h5 {
 .left b {
     box-sizing: border-box;
     display: flex;
-    color: white;
-    background-color: black;
+    color: black;
+    background-color: wheat;
     padding-left: 32px;
-    padding-top: 10px;
+    padding-top: 10px;  
     padding-bottom: 10px;
     width: 100%;
 }
@@ -63,8 +63,8 @@ h5 {
 .left a {
     box-sizing: border-box;
     display: flex;
-    color: rgb(93, 197, 192);
-    background-color: rgb(155, 72, 72);
+    color: black;
+    background-color: wheat;
     padding-left: 15px;
     padding-bottom: 10px;
     padding-top: 10px;
